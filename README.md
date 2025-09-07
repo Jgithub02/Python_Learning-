@@ -62,6 +62,7 @@ Boolean Type:	bool
 Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 ```
+# New Notebook
 
 
 
